@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorLapenda</string>
+    <string name="yes">Los geht\'s!</string>
+    <string name="no">App beenden :(</string>
+    <string name="welcome_text">Bist du bereit zu rechnen?</string>
+    <string name="enter_km">Wie viele Kilometer hast du zurückgelegt?</string>
+    <string name="fuel">Wie viel Kraftstoff hast du in dein Auto getankt?</string>
+    <string name="compass_logo">Kompass</string>
+    <string name="enter_km_hint">Anzahl der Kilometer eingeben</string>
+    <string name="hint_liters">Anzahl der Liter eingeben</string>
+    <string name="calculate">Berechnen</string>
+    <string name="answer">Dein Verbrauch pro 100 km beträgt:</string>
+    <string name="finalAnswer"> </string>
+    <string name="goBack">Zurück</string>
+    <string name="litersError">Bitte gib eine gültige Zahl für Liter ein</string>
+    <string name="kilometersError">Bitte gib eine gültige Zahl für Kilometer ein</string>
+
+    <string-array name="theme_options">
+        <item>Licht-Thema</item>
+        <item>Dunkles Thema</item>
+        <item>Türkis-Thema</item>
+    </string-array>
+</resources>

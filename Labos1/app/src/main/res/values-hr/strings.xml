@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KalkulatorLapenda</string>
+    <string name="yes">Krenimo!</string>
+    <string name="no">Izađi iz aplikacije :(</string>
+    <string name="welcome_text">Jesi li spreman za računanje?</string>
+    <string name="enter_km">Koliko kilometara si prešao?</string>
+    <string name="fuel">Koliko goriva si stavio u auto?</string>
+    <string name="compass_logo">Kompas</string>
+    <string name="enter_km_hint">Unesi broj kilometara</string>
+    <string name="hint_liters">Unesi broj litara</string>
+    <string name="calculate">Izračunaj</string>
+    <string name="answer">Tvoja potrošnja po 100 km je:</string>
+    <string name="finalAnswer"> </string>
+    <string name="goBack">Natrag</string>
+    <string name="litersError">Molim unesi valjani broj za litre</string>
+    <string name="kilometersError">Molim unesi valjani broj za kilometre</string>
+
+    <string-array name="theme_options">
+        <item>Svijetla tema</item>
+        <item>Tamna tema</item>
+        <item>Tirkizna tema</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalculatorLapenda</string>
+    <string name="yes">Bring it on!</string>
+    <string name="no">Exit the app :(</string>
+    <string name="welcome_text">Are you ready to calculate?</string>
+    <string name="enter_km">How many kilometers have you traveled?</string>
+    <string name="fuel">How much fuel did you put in your car?</string>
+    <string name="compass_logo">Compass</string>
+    <string name="enter_km_hint">Enter number of kilometers</string>
+    <string name="hint_liters">Enter number of liters</string>
+    <string name="calculate">Calculate</string>
+    <string name="answer">Your consumption per 100km is:</string>
+    <string name="finalAnswer"> </string>
+    <string name="goBack">Go back</string>
+    <string name="litersError">Please enter a valid number for liters</string>
+    <string name="kilometersError">Please enter a valid number for kilometers</string>
+
+    <string-array name="theme_options">
+        <item>Light Theme</item>
+        <item>Dark Theme</item>
+        <item>Teal Theme</item>
+    </string-array>
+</resources>
