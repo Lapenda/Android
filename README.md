@@ -14,7 +14,7 @@ This repository contains my lab exercises for Android development at university.
 - Uses View Binding for connecting UI elements.
 
 ### How to Run
-1. Clone the repository: `git clone https://github.com/yourusername/Labosi.git`
+1. Clone the repository: `git clone https://github.com/Lapenda/Labosi.git`
 2. Open the project in Android Studio.
 3. Sync Gradle and run on an emulator or device.
 
