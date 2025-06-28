@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentiLapenda</string>
+    <string name="share">Share</string>
+    <string name="share_message">Do you want to share this movie?</string>
+    <string name="yes">Share</string>
+    <string name="no">Cancel</string>
+    <string name="open_website">Open Website</string>
+    <string name="share_action_received">Share action received!</string>
+</resources>

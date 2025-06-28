@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentiLapenda</string>
+    <string name="share">Podijeli</string>
+    <string name="share_message">Želiš li podijeliti ovaj film?</string>
+    <string name="yes">Podijeli</string>
+    <string name="no">Odustani</string>
+    <string name="open_website">Otvori web stranicu</string>
+    <string name="share_action_received">Akcija dijeljenja primljena!</string>
+</resources>

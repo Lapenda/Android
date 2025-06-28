@@ -1,0 +1,39 @@
+<resources>
+    <string-array name="movie_titles">
+        <item>Inception</item>
+        <item>The Shawshank Redemption</item>
+        <item>The Godfather</item>
+    </string-array>
+    <string-array name="movie_directors">
+        <item>Christopher Nolan</item>
+        <item>Frank Darabont</item>
+        <item>Francis Ford Coppola</item>
+    </string-array>
+    <string-array name="movie_years">
+        <item>2010</item>
+        <item>1994</item>
+        <item>1972</item>
+    </string-array>
+    <string-array name="movie_descriptions">
+        <item>A mind-bending thriller about dreams within dreams.</item>
+        <item>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</item>
+        <item>The aging patriarch of an organized crime dynasty transfers control of his clan to his reluctant son.</item>
+    </string-array>
+    <string-array name="movie_images">
+        <item>inception</item>
+        <item>shawshank</item>
+        <item>godfather</item>
+    </string-array>
+    <string-array name="movie_urls">
+        <item>https://www.imdb.com/title/tt1375666/</item>
+        <item>https://www.imdb.com/title/tt0111161/</item>
+        <item>https://www.imdb.com/title/tt0068646/</item>
+    </string-array>
+    <string name="open_website">Open Website</string>
+    <string name="share">Share</string>
+    <string name="share_message">Do you want to share this movie?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="share_action_received">Share action received</string>
+    <string name="app_name">ListaLapenda</string>
+</resources>

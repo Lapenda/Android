@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentiLapenda</string>
+    <string name="share">Teilen</string>
+    <string name="share_message">Möchtest du diesen Film teilen?</string>
+    <string name="yes">Teilen</string>
+    <string name="no">Abbrechen</string>
+    <string name="open_website">Website öffnen</string>
+    <string name="share_action_received">Teilungsaktion empfangen!</string>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string-array name="movie_titles">
+        <item>Inception</item>
+        <item>Die Verurteilten</item>
+        <item>Der Pate</item>
+    </string-array>
+    <string-array name="movie_directors">
+        <item>Christopher Nolan</item>
+        <item>Frank Darabont</item>
+        <item>Francis Ford Coppola</item>
+    </string-array>
+    <string-array name="movie_years">
+        <item>2010</item>
+        <item>1994</item>
+        <item>1972</item>
+    </string-array>
+    <string-array name="movie_descriptions">
+        <item>Ein gehirnverdrehender Thriller über Träume in Träumen.</item>
+        <item>Zwei inhaftierte Männer knüpfen über Jahre hinweg eine Verbindung und finden Trost und letztendliche Erlösung durch anständige Taten.</item>
+        <item>Der alternde Patriarch einer organisierten Krimidynastie übergibt die Kontrolle über seinen Clan an seinen widerwilligen Sohn.</item>
+    </string-array>
+    <string-array name="movie_images">
+        <item>inception</item>
+        <item>shawshank</item>
+        <item>godfather</item>
+    </string-array>
+    <string-array name="movie_urls">
+        <item>https://www.imdb.com/title/tt1375666/</item>
+        <item>https://www.imdb.com/title/tt0111161/</item>
+        <item>https://www.imdb.com/title/tt0068646/</item>
+    </string-array>
+    <string name="open_website">Website öffnen</string>
+    <string name="share">Teilen</string>
+    <string name="share_message">Möchten Sie diesen Film teilen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="share_action_received">Teilungsaktion erhalten</string>
+    <string name="app_name">ListaLapenda</string>
+</resources>

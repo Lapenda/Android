@@ -1,0 +1,10 @@
+<resources>
+    <style name="MovieTitleStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="MovieDetailTitleStyle">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

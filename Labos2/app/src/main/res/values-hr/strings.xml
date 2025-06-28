@@ -1,0 +1,39 @@
+<resources>
+    <string-array name="movie_titles">
+        <item>Incepcija</item>
+        <item>Probuđena nada</item>
+        <item>Kum</item>
+    </string-array>
+    <string-array name="movie_directors">
+        <item>Christopher Nolan</item>
+        <item>Frank Darabont</item>
+        <item>Francis Ford Coppola</item>
+    </string-array>
+    <string-array name="movie_years">
+        <item>2010</item>
+        <item>1994</item>
+        <item>1972</item>
+    </string-array>
+    <string-array name="movie_descriptions">
+        <item>Triler koji mijenja percepciju, o snovima unutar snova.</item>
+        <item>Dvojica zatvorenika stvaraju vezu tijekom godina, pronalazeći utjehu i iskupljenje kroz djela pristojnosti.</item>
+        <item>Stariji patrijarh dinastije organiziranog kriminala prenosi kontrolu svog klana na svog nevoljkog sina.</item>
+    </string-array>
+    <string-array name="movie_images">
+        <item>inception</item>
+        <item>shawshank</item>
+        <item>godfather</item>
+    </string-array>
+    <string-array name="movie_urls">
+        <item>https://www.imdb.com/title/tt1375666/</item>
+        <item>https://www.imdb.com/title/tt0111161/</item>
+        <item>https://www.imdb.com/title/tt0068646/</item>
+    </string-array>
+    <string name="open_website">Otvori web stranicu</string>
+    <string name="share">Podijeli</string>
+    <string name="share_message">Želite li podijeliti ovaj film?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="share_action_received">Akcija dijeljenja primljena</string>
+    <string name="app_name">ListaLapenda</string>
+</resources>

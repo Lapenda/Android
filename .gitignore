@@ -1,9 +1,56 @@
-*.iml
+# Gradle
 .gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+build/
+!*/src/main/**/build.gradle.kts
+!*/src/main/**/build.gradle
+
+# Local configuration files
 local.properties
+*.iml
+*.ipr
+*.iws
 .idea/
 .DS_Store
-build/
+
+# Log and temp files
+*.log
+*.tmp
+
+# Android specific
+.cxx/
 captures/
 .externalNativeBuild/
-.cxx/
+
+# Keystore and signing
+**/debug.keystore
+**/*.jks
+
+# Firebase / Google Services (Optional: remove if sharing with teammates)
+**/google-services.json
+
+# Kotlin specific
+*.kotlin_module
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Auto-generated files by Android Asset Studio or others
+**/ic_launcher-playstore.png
+**/ic_launcher_2-playstore.png
+
+# Ignore generated apk/aab
+*.apk
+*.ap_
+
+# Miscellaneous
+*.swp
+*.swo
+
+.vs/
+# Ignore build output folders for .NET projects
+bin/
+obj/
+
